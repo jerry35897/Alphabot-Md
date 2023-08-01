@@ -48,19 +48,19 @@ global.groupOnly = false //bot hanya bisa di gunakan dalam grup jika true
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
+global.language = english //change indonesia to english if you don't understand the language used by the bot
 //global.language = english // use this for English language
 //global.language = spanyol // use this for Spanyol language
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.botname = "Jextech Bot" //namabot kalian
+global.ownername = "ᴹᴿ᭄ Jerald Munyaradzi Madaninire×፝֟͜×" //nama kalian
 global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
-global.region = "Indonesia" //bebas
+global.email = "jeraldmmadanire11@gmail.com" //bebas
+global.region = "Africa" //bebas
 global.timezone = 'Asia/Makassar' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
 global.badword_list = ["asu", "anjir"] //tambahin sendiri kata² nya, gunakan huruf kecil
